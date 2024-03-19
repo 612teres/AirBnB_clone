@@ -31,7 +31,7 @@ After starting the interpreter, use this command
 ##### 2. Showing Object Information:
 '(hbnb) show user'
 ##### 3. Updating Object Attributes:
-'(hbnb) update user name 612teres'
+'(hbnb) update user name'
 ##### 4. Destroying an Object:
 '(hbnb) destroy user'
 ##### 5. Listing All Objects of a Class:
