@@ -12,7 +12,7 @@ This is a Python-based tool designed to manage AirBnB objects within the applica
 
 ##How to start
 
-1. Clone the project to your local computer "https://github.com/612teres/AirBnB_clone.git"
+1. Clone the project to your local computer 
 
 2. Navigate to the directory
 
